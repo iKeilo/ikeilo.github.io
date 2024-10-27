@@ -3,14 +3,14 @@
   <title>Hexo</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://lab.ikeilo.top/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://lab.ikeilo.top/"/>
   <updated>2024-10-26T22:56:33.030Z</updated>
-  <id>http://example.com/</id>
+  <id>https://lab.ikeilo.top/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>iKeilo</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>test</title>
-    <link href="http://example.com/2024/10/27/test/"/>
-    <id>http://example.com/2024/10/27/test/</id>
+    <link href="https://lab.ikeilo.top/2024/10/27/test/"/>
+    <id>https://lab.ikeilo.top/2024/10/27/test/</id>
     <published>2024-10-26T22:56:33.000Z</published>
     <updated>2024-10-26T22:56:33.030Z</updated>
     
